@@ -9,17 +9,17 @@ body{
   .header{
     background-color: #ff4c25;
     color: #fff;
-    height: 70px;
+    height: 60px;
   }
   .header-logo{
     float: left;
     font-size: 30px;
-    padding: 30px 30px;
+    padding: 20px 30px;
   }
   .header-list a{
     font-size: 30px;
     float: left;
-    padding: 0px 30px;
+    padding: 20px 30px;
   }
   
   img{
