@@ -71,7 +71,7 @@ span{
     height: 250px;
 }
 
-.main-bott{
+.main-bott h1, p{
     font-size: 20px;
     color: #000;
 }
