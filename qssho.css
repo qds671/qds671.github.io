@@ -8,7 +8,7 @@ li{
 }
 
 .aaa{
-    width: 900px;
+    width: 750px;
     margin: 20px auto 20px auto;
 }
 
@@ -72,5 +72,6 @@ span{
 }
 
 .main-bott{
+    font-size: 20px;
     color: #000;
 }
