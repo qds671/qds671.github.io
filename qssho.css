@@ -36,7 +36,7 @@ li{
     border-bottom: 3px solid #000;
 }
 
-.main-icon{
+.main-icon img{
     height: 100px;
     float: left;
 }
@@ -64,7 +64,7 @@ span{
     border-bottom: 1px solid #000;
 }
 
-.contents-item{
+.contents-item img{
     margin: 10px;
     float: left;
     height: 200px;
