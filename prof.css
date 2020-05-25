@@ -1,0 +1,39 @@
+body{
+    font-family:"Avenir Next";
+    background-color:#aaa;
+}
+
+li{
+    list-style: none;
+}
+
+.aaa{
+    width: 500px;
+    margin: 20px auto 20px auto;
+}
+
+.prof{
+    color: #000;
+    height: 700px;
+    background-color: #fff;
+}
+.prof img{
+    border: 1px solid #000;
+    float: left;
+}
+
+.prof p{
+    font-size: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.prof h1{
+    padding: 0px 50px;
+    border-bottom: 1px solid #000;
+}
+
+.prof li{
+    border-bottom: 1px solid #000;
+    padding: 10px 10px 0px 0px;
+}
