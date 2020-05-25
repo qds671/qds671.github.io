@@ -1,50 +1,75 @@
 body{
-    font-family: "Avenir Next"
-  }
-  
-  li{
+    font-family:"Avenir Next";
+    background-color:#aaa;
+}
+
+li{
     list-style: none;
-  }
-  
-  .header{
-    background-color: #ff4c25;
-    color: #fff;
-    height: 60px;
-  }
-  .header-logo{
+}
+
+.aaa{
+    width: 900px;
+    margin: 20px auto 20px auto;
+}
+
+.menu{
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    width: 150px;
     float: left;
-    font-size: 30px;
-    padding: 20px 30px;
-  }
-  .header-list a{
-    font-size: 30px;
-    float: left;
-    padding: 20px 30px;
-  }
-  
-  img{
-    width: 1200px;
-    height: 750px;
-  }
-  
-  
-  .contact-form a{
-    font-size:50px;
-    border: 1px solid #40f;
-    float: left;
-    margin: 10px;
-  }
-  .footer{
-    float: center;
-    background-color:#ff4c25;
-    color: #fff;
-    height:100px;
-    width:1200px;
-    margin: 200px 20px;
-  }
-  .footer-list a{
     
-    font-size: 40px;
+}
+
+.main{
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    width: 550px;
+    float:right;
+
+}
+
+.main-top{
+    background-color: #fff;
+    height: 350px;
+    border-bottom: 3px solid #000;
+}
+
+.main-icon{
+    height: 100px;
     float: left;
-    margin: 30px 20px;
-  }
+}
+
+.main-name{
+    color: #000;
+    float: center;
+    margin: 20px;
+}
+
+span{
+    color: #ee0;
+}
+
+.main-button{
+    margin: 20px;
+    float: right;
+    width:85px;
+    background-color: #3df;
+    border-radius: 5px solid #000;
+}
+
+.main-mid{
+    height: 270px;
+    border-bottom: 1px solid #000;
+}
+
+.contents-item{
+    margin: 10px;
+    float: left;
+    height: 200px;
+}
+
+.main-bott{
+    color: #000;
+}
