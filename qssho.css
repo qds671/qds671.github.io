@@ -81,6 +81,10 @@ span{
     color: #000;
 }
 
+.main-bott p{
+    float: left;
+    }
+
 .main-bott ul{
     float: right;
     }
