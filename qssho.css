@@ -20,6 +20,10 @@ li{
     float: left;
 }
 
+.menu-list{
+    float:left;
+    }
+
 .menu li{
     padding: 3px 0px;
     border: 1px solid #000;
