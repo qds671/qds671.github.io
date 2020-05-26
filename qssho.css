@@ -3,7 +3,7 @@ body{
     background-color:#aaa;
 }
 
-ul{
+.menu ul{
     padding-left: 0px;
     list-style: none;
 }
