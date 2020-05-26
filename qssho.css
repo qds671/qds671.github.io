@@ -13,11 +13,12 @@ li{
 }
 
 .menu{
+    text-align: left;
     background-color: #fff;
     border-radius: 8px;
     padding: 15px;
     width: 150px;
-    float: left;    
+    float: left;
 }
 
 .menu li{
