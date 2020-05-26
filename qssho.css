@@ -21,6 +21,7 @@ li{
 }
 
 .menu li{
+    padding: 3px;
     border: 1px solid #000;
     }
 
