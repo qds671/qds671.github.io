@@ -17,10 +17,11 @@ li{
     border-radius: 8px;
     padding: 15px;
     width: 150px;
-    float: right;    
+    float: left;    
 }
 
 .menu li{
+    float: left;
     padding: 3px;
     border: 1px solid #000;
     }
