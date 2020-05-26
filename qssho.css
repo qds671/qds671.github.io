@@ -76,12 +76,14 @@ span{
     height: 250px;
 }
 
-.main-bott h1, p{
+.main-bott h1{
     font-size: 20px;
     color: #000;
 }
 
 .main-bott p{
+    font-size: 30px;
+    color: #000;
     float: left;
     }
 
