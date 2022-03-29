@@ -1,6 +1,8 @@
 body{
     font-family:"Avenir Next";
     background-color:#aaa;
+    width: 550px;
+    margin: 20px auto 20px auto;
 }
 
 .menu ul{
@@ -8,10 +10,6 @@ body{
     list-style: none;
 }
 
-.aaa{
-    width: 550px;
-    margin: 20px auto 20px auto;
-}
 
 
 .main{
